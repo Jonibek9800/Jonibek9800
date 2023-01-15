@@ -15,6 +15,7 @@
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/jony9800)
