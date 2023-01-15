@@ -17,7 +17,7 @@
 ![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Jony9800#8118)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Jony9800)
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/jonibek9800)
-[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/jony9800)
+[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/Jony9800#8118)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://facebook.com/jonibek.mahmudov.39)
