@@ -1,6 +1,6 @@
-<h3 style="display: flex; justify-content: center; align-items: center;">Hi there, I'm Jony 👋
+### Hi there, I'm Jony 👋
 
-<h2 style="display: flex; justify-content: center; align-items: center;"> I am a frontend developer
+## I am a frontend developer
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
