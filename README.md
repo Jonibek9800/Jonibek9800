@@ -22,3 +22,6 @@
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/jonibek9800)
 [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/jony9800)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://facebook.com/jonibek.mahmudov.39)
+
+## My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonibek9800)](https://github.com/jonibek9800/github-readme-stats)
