@@ -1,6 +1,6 @@
-### Hi there, I'm Jony 👋
+<h3 style="display: flex; justify-content: center; align-items: center;">Hi there, I'm Jony 👋
 
-## I am a frontend developer
+<h2 style="display: flex; justify-content: center; align-items: center;"> I am a frontend developer
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
@@ -15,10 +15,9 @@
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
-![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Jony9800)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/jony9800)
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/jonibek9800)
-[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/Jony9800#8118)
+[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/jony9800)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://facebook.com/jonibek.mahmudov.39)
