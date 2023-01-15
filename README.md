@@ -2,6 +2,7 @@
 
 ## I am a frontend developer
 
+## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
