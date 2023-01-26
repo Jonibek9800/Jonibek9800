@@ -1,4 +1,4 @@
-### Hi there, I'm Jony 👋
+### Hi there, I'm Johnny 👋
 
 ## I am a frontend developer
 
