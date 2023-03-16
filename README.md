@@ -23,5 +23,5 @@
 [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/jony9800)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://facebook.com/jonibek.mahmudov.39)
 
-## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonibek9800&show_icons=true)](https://github.com/Jonibek9800/github-readme-stats)
+<!-- ## My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonibek9800&show_icons=true)](https://github.com/Jonibek9800/github-readme-stats) -->
