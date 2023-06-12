@@ -19,7 +19,7 @@
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/jony9800)
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/jonibek9800)
-[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/jony9800)
+[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/Jony9800)
 
 <!-- ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonibek9800&show_icons=true)](https://github.com/Jonibek9800/github-readme-stats) -->
