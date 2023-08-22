@@ -22,4 +22,4 @@
 [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/Jony9800)
 
 ## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonibek9800&show_icons=true)](https://github.com/Jonibek9800/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonibek9800&show_icons=true)](https://github.com/Jonibek9800/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/github-readme-stats) 
