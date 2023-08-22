@@ -22,4 +22,4 @@
 [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/Jony9800)
 
 ## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonibek9800)](https://github.com/Jonibek9800/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonibek9800&hide_progress=true)
