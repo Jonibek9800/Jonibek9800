@@ -23,3 +23,4 @@
 
 ## My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonibek9800&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonibek9800&layout=pie)](https://github.com/Jonibek9800/github-readme-stats)
