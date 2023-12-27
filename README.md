@@ -10,8 +10,8 @@
 <!--![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)--> 
 ![nodejs](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-react.js-090909?style=for-the-badge&logo=react)
-<!--![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux) -->
-<!--![redux_toolkit](https://img.shields.io/badge/-redux_toolkit-090909?style=for-the-badge&logo=redux)-->
+![dart](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=dart)
+![flutter](https://img.shields.io/badge/-redux_toolkit-090909?style=for-the-badge&logo=flutter)
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
