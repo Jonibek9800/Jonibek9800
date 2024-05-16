@@ -15,7 +15,7 @@
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
-![zustand](https://img.shields.io/badge/-zustand-090909?style=for-the-badge&logo=zustand)
+![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
 
 ## Follow me
