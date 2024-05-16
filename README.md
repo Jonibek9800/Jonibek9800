@@ -8,7 +8,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 <!--![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)--> 
-![nodejs](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![nodejs](https://img.shields.io/badge/-node.js-030203?style=for-the-badge&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-react.js-090909?style=for-the-badge&logo=react)
 ![dart](https://img.shields.io/badge/-dart-090909?style=for-the-badge&logo=dart)
 ![flutter](https://img.shields.io/badge/-flutter-090909?style=for-the-badge&logo=flutter)
