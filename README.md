@@ -19,9 +19,9 @@
 ![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux&color=grey)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Polzovatel_000)
-[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/jonibek_9800)
-[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)](https://discord.com/Jony9800)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&color=grey)](https://t.me/Polzovatel_000)
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&color=grey)](https://www.instagram.com/jonibek_9800)
+[![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&color=grey)](https://discord.com/Jony9800)
 
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonibek9800&layout=pie)](https://github.com/Jonibek9800/github-readme-stats)
