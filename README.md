@@ -3,20 +3,20 @@
 ## I am a frontend developer
 
 ## Languages and Tools
-![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5?color=#4D4D4D)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3?color=#4D4D4D)
-![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass?color=#4D4D4D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript?color=#4D4D4D)
+![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&color=#4D4D4D)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&color=#4D4D4D)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&color=#4D4D4D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&color=#4D4D4)
 <!--![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)--> 
-![nodejs](https://img.shields.io/badge/-node.js-030203?style=for-the-badge&logo=node.js?color=#4D4D4D)
-![JavaScript](https://img.shields.io/badge/-react.js-090909?style=for-the-badge&logo=react?color=#4D4D4D)
-![dart](https://img.shields.io/badge/-dart-090909?style=for-the-badge&logo=dart?color=#4D4D4D)
-![flutter](https://img.shields.io/badge/-flutter-090909?style=for-the-badge&logo=flutter?color=#4D4D4D)
-![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git?color=#4D4D4D)
-![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap?color=#4D4D4D)
-![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript?color=#4D4D4D)
-![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB?color=#4D4D4D)
-![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux?color=#4D4D4D)
+![nodejs](https://img.shields.io/badge/-node.js-030203?style=for-the-badge&logo=node.js&color=#4D4D4D)
+![JavaScript](https://img.shields.io/badge/-react.js-090909?style=for-the-badge&logo=react&color=#4D4D4D)
+![dart](https://img.shields.io/badge/-dart-090909?style=for-the-badge&logo=dart&color=#4D4D4D)
+![flutter](https://img.shields.io/badge/-flutter-090909?style=for-the-badge&logo=flutter&color=#4D4D4D)
+![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git&color=#4D4D4D)
+![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&color=#4D4D4D)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&color=#4D4D4D)
+![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&color=#4D4D4D)
+![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux&color=#4D4D4D)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Polzovatel_000)
