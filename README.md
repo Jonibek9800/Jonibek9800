@@ -10,7 +10,7 @@
 <!--![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)--> 
 ![nodejs](https://img.shields.io/badge/-node.js-030203?style=for-the-badge&logo=node.js&color=grey)
 ![JavaScript](https://img.shields.io/badge/-react.js-090909?style=for-the-badge&logo=react&color=grey)
-![Next](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=Next&color=grey)
+![Next](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next&color=grey)
 ![dart](https://img.shields.io/badge/-dart-090909?style=for-the-badge&logo=dart&color=grey)
 ![flutter](https://img.shields.io/badge/-flutter-090909?style=for-the-badge&logo=flutter&color=grey)
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=git&color=grey)
