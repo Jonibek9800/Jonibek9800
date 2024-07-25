@@ -40,7 +40,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&color=grey" title="Zustand" alt="Zustand"/>&nbsp;
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
-<img src="https://img.shields.io/badge/redux-toolkit%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux/Toolkit" alt="Redux-Toolkit"/>&nbsp;
+<img src="https://img.shields.io/badge/redux-toolkit%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux/Toolkit" alt="Redux/Toolkit"/>&nbsp;
 </div>
 
 ---
