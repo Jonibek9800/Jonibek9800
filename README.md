@@ -3,6 +3,7 @@
   <div id="badges" align="center">
   <a href="https://t.me/Polzovatel_000"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://www.instagram.com/jonibek_9800"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram             Badge"/>  </a>
+    +992001777786
   </div>
 <img src="https://komarev.com/ghpvc/?username=Jonibek9800&style=flat-square&color=blue" alt=""/>
 <h1>
@@ -21,7 +22,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Technical Content Writing.
 
-<!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
+<!-- - :zap: In my spare time I solve problems on leetCode and do a little 3d modeling. -->
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/Polzovatel_000)
 
