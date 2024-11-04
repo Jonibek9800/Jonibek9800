@@ -1,10 +1,10 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges" align="center">
   <a href="https://t.me/Polzovatel_000"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://www.instagram.com/jonibek_9800"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram             Badge"/>  </a>
-  ![+992001777786 Badge](https://img.shields.io/badge/PhonePe-5F259F?logo=phonepe&logoColor=fff&style=flat)
-    
+    <div align="center" border="solid">+992 00177 77 86</div>
   </div>
 <img src="https://komarev.com/ghpvc/?username=Jonibek9800&style=flat-square&color=blue" alt=""/>
 <h1>
