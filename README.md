@@ -3,7 +3,7 @@
   <div id="badges" align="center">
   <a href="https://t.me/Polzovatel_000"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://www.instagram.com/jonibek_9800"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram             Badge"/>  </a>
-  <a href="phone"><img src="https://img.shields.io/badge/phone?style=for-the-badge&logo=Phone&logoColor=white" alt="Phone             Badge"/>+992001777786</a>
+  ![+992001777786 Badge](https://img.shields.io/badge/PhonePe-5F259F?logo=phonepe&logoColor=fff&style=flat)
     
   </div>
 <img src="https://komarev.com/ghpvc/?username=Jonibek9800&style=flat-square&color=blue" alt=""/>
