@@ -8,12 +8,11 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" title="NextJs" alt="NextJs"/>&nbsp;
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" title="Dart" alt="Dart"/>&nbsp;
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter"/>&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub"/>&nbsp;
+<img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstarp"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&color=grey" title="Zustand" alt="Zustand"/>&nbsp;
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
-<img src="https://img.shields.io/badge/redux-toolkit%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux Toolkit" alt="Redux Toolkit"/>&nbsp;
 </div>
 
 ---
@@ -21,7 +20,7 @@
 - Банковская сфера на позиции Фронтенд разработчика с 06.2024 по настоящее время
   #### Основные задачи разработка нового функционала и дороботка старого функционал
   - Разработка полноценного интерфейса пример: (страница авторизации, страница получение кредита и погашение кредита и интеграции с бекендом) 
-  - стеки React, Redux/toolkit, Typescrypt, rtkquery, fetch, axios, 
+  - стеки React, Redux/toolkit, Typescrypt, RTKquery, Fetch, Axios, 
 
 ### :woman_technologist: Обо мне :
 - :telescope: Я работаю Frontend разработчик и участвую в разработке интерфейсов для создания веб-приложений.
