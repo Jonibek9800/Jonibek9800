@@ -1,3 +1,8 @@
+<h1 align="center">
+  Привет всем
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### :hammer_and_wrench: Технологии, языки программирования и фремворки
 <div>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="Html5" alt="Html5"/>&nbsp;
@@ -13,6 +18,7 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&color=grey" title="Zustand" alt="Zustand"/>&nbsp;
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
+ <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='npm' src='https://img.shields.io/badge/npm-100000?style=for-the-badge&logo=npm&logoColor=FFFAFA&labelColor=CD430F&color=CD430F'/></a>
 </div>
 
 ---
@@ -38,7 +44,7 @@
 
 <!-- - :zap: В свободное время решаю задачи на leetCode и немного занимаюсь 3D-моделированием. -->
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/Polzovatel_000)
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/Polzovatel_000)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -48,10 +54,6 @@
     <div align="center" border="solid">+992 00177 77 86</div>
   </div>
 <img src="https://komarev.com/ghpvc/?username=Jonibek9800&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
