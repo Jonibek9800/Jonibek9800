@@ -67,6 +67,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonibek9800&show_icons=true&theme=vision-friendly-dark" />
+
   <img src="https://streak-stats.demolab.com/?user=Jonibek9800&theme=dark" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonibek9800&layout=compact&theme=vision-friendly-dark" />
